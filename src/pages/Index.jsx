@@ -59,7 +59,7 @@ const Index = () => {
           </InputGroup>
           <FormErrorMessage>{errors.password}</FormErrorMessage>
         </FormControl>
-        <Button type="submit" colorScheme="teal" width="full">
+        <Button type="submit" colorScheme="blue" width="full">
           Login
         </Button>
       </VStack>
